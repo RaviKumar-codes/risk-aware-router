@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+.venv
+data/processed/*
+data/benchmark/*
+!data/benchmark/.gitkeep
+checkpoints/
+models/weights/
+*.pt
+*.bin
+.ipynb_checkpoints
